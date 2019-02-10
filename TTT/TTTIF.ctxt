@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TTTIF
+comment1.params=name\ order
+comment1.target=void\ Player(java.lang.String,\ int)
+comment2.params=arr
+comment2.target=void\ Print(java.lang.String[][])
+comment3.params=arr
+comment3.target=void\ Check(java.lang.String[][])
+comment4.params=
+comment4.target=void\ Leaving()
+numComments=5
